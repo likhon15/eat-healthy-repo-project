@@ -3,18 +3,7 @@
 }
 
 
-.sec-2 {
-    margin-top: 40px;
-    display: flex;
-    font-family: 'Poppins', sans-serif;
-}
 
-
-.img-2 img {
-    width: 50%;
-    margin-left: 100px;
-    margin-top: 80px;
-}
 
 
 
@@ -36,13 +25,6 @@
     color: gray;
 }
 
-.text-main-2 {
-    width: 70%;
-    font-weight: 700;
-    font-style: bold;
-    text-align: justify;
-    color: gray;
-}
 
 
 .orange {
@@ -53,16 +35,126 @@
     margin-top: 40px;
 }
 
-.btn #btn-id {
+
+.contact-info {
     padding: 15px 40px;
-    font-size: 40x;
+    font-size: 40px;
     font-weight: 700;
     color: white;
     background-color: coral;
     text-decoration: none;
+    box-shadow: 8px 8px 120px tomato;
+    border-radius: 50px;
 }
 
-.btn #btn-id:hover {
+.sec-2 {
+    margin-top: 100px;
+    align-items: center;
+    background-image: url(shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.container-second {
+    display: flex;
+}
+
+.boldd {
+    font-weight: 900;
+    color: gray;
+}
+
+.btn #btn-id {
+    padding: 15px 40px;
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+    background-color: coral;
+    text-decoration: none;
+    box-shadow: 8px 8px 120px tomato;
+    border-radius: 50px;
+}
+
+
+.sec-3 {
+    margin-top: 120px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.header {
+    text-align: center;
+    font-size: 30px;
+}
+
+.parent {
+    display: flex;
+}
+
+.child1 {
+    box-shadow: 8px 8px 120px gray;
+    text-align: center;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 3%;
+}
+
+.child1 img {
+    width: 50%;
+}
+
+.pareent {
+    margin-top: 100px;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 8px 8px 120px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 50px;
+}
+
+.div1 {
+    padding: 30px;
+}
+
+.div2 {
+    padding: 30px;
+}
+
+.div2 {
+    padding: 30px;
+}
+
+.child2 {
+    box-shadow: 8px 8px 120px gray;
+    text-align: center;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 3%;
+}
+
+.child2 img {
+    width: 50%;
+}
+
+.female img {
+    width: 35%;
+    margin-left: 240px;
+}
+
+.text-f {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    width: 40%;
+    margin-top: 90px;
+}
+
+#text .btn #btn-id:hover {
     background-color: royalblue;
 }
 
