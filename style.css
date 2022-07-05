@@ -161,23 +161,24 @@
     align-items: center;
     text-align: center;
     box-shadow: 8px 8px 120px gray;
-    margin-left: 50px;
     margin-right: 50px;
+    margin-left: 50px;
     margin-top: 40px;
     margin-bottom: 40px;
     border-radius: 50px;
 }
 
 .div1 {
-    padding: 30px;
+    padding: 90px;
 }
 
 .div2 {
-    padding: 30px;
+    padding: 90px;
 }
 
 .div2 {
-    padding: 30px;
+    padding: 90px;
+    margin: 40px;
 }
 
 .child2 {
