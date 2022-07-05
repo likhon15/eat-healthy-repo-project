@@ -129,18 +129,29 @@
 
 .parent {
     display: flex;
+    justify-content: center;
 }
 
 .child1 {
     box-shadow: 8px 8px 120px gray;
-    text-align: center;
-    padding: 30px;
+    padding: 20px;
     margin: 40px;
-    border-radius: 3%;
+    width: 30%;
+    border-radius: 40px;
+}
+
+.hola {
+    text-align: justify;
+    margin-left: 30px;
+}
+
+.hol {
+    margin-top: 30px;
+    text-align: center;
 }
 
 .child1 img {
-    width: 50%;
+    width: 90%;
 }
 
 .pareent {
